@@ -1,0 +1,7 @@
+a=input("plese input the first number : ")
+a=int(a)
+b=input("plese input the second number : ")
+b=int(b)
+c=input("plese input the therd number : ")
+c=int(c)
+print(max(max(a,b),c))
